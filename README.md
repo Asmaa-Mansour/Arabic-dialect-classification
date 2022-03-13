@@ -11,7 +11,7 @@ Many countries speak Arabic; however, each country has its own dialect, the aim 
 
 
 Here i Train two models, a machine learning model and a deep learning model.
-## Rpo structure:
+## Repo structure:
 - Dataset (both)
 - Data fetching notebook
 - Data pre-processing notebook
