@@ -12,7 +12,7 @@ Many countries speak Arabic; however, each country has its own dialect, the aim 
 
 Here i Train two models, a machine learning model and a deep learning model.
 ## Repo structure:
-- Dataset (both)
+- Dataset 
 - Data fetching notebook
 - Data pre-processing notebook
 - Model Training notebook
